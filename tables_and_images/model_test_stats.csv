@@ -1,0 +1,6 @@
+﻿Years Used,Year Predicted,Number of Parameter Estimators,Regressor Score,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,R Squared
+2008-2017,2018,200,-0.054,-0.059,0.054,0.23,0.99
+2008-2016,2017,200,-0.088,0.069,0.088,0.3,0.99
+2008-2013,2014,200,-0.026,0.064,0.026,0.16,0.995
+2008-2010,2011,400,-0.029,0.046,1.15,0.17,0.99
+2008-2017 (Without Zeros),2018 (Without Zeros),600,-0.46,0.17,0.46,0.68,0.98

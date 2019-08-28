@@ -1,0 +1,7 @@
+﻿Year Predicted,Number of Parameter Estimators,Regressor Score,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,R Squared
+2020,200,-16.02,0.15,16.02,4,0.99
+2021,200,-6.67,0.075,6.67,2.58,0.99
+2022,200,-3.36,0.046,3.36,1.83,0.99
+2023,200,-1.55,0.033,1.55,1.24,0.99
+2024,200,-0.86,0.033,0.86,0.93,0.99
+2025,200,-0.32,0.042,0.32,0.57,0.99

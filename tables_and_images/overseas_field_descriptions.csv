@@ -1,0 +1,40 @@
+﻿Field name,Mandatory?,Description
+Title number,Yes,Unique Register Number
+Tenure,Yes,Freehold or Leasehold.
+Property Address,Yes,Property Address
+District,Yes,District Name
+County,Yes,County
+Region,Yes,Region Name
+Postcode,No,Postcode
+Multiple address Indicator,Yes,Multiple Addresses
+Price Paid,No,Transfer Deed Sale Price
+Proprietor name (1),Yes,Non-Private Individual Name
+Company Registration No. (1),No,Company Registration Number
+Proprietorship Category (1),Yes,Proprietor Type
+Country Incorporated (1),Yes,Country of Incorporation Name
+Proprietor (1) address (1),Yes,Register Address
+Proprietor (1) address (2),No,Register Address
+Proprietor (1) address (3),No,Register Address
+Proprietor name (2),No,Non-Private Individual Name
+Company Registration No. (2),No,Company Registration Number
+Proprietorship Category (2),No,Proprietor Type
+Country Incorporated (2),No,Country of Incorporation Name
+Proprietor (2) address (1),No,Register Address
+Proprietor (2) address (2),No,Register Address
+Proprietor (2) address (3),No,Register Address
+Proprietor name (3),No,Non-private Individual Name
+Company Registration No. (3),No,Company Registration Number
+Proprietorship Category (3),No,Proprietor Type
+Country Incorporated (3),No,Country of Incorporation Name
+Proprietor (3) address (1),No,Register Address
+Proprietor (3) address (2),No,Register Address
+Proprietor (3) address (3),No,Register Address
+Proprietor name (4),No,Non-Private Individual Name
+Company Registration No. (4),No,Company Registration Number
+Proprietorship Category (4),No,Proprietor Type
+Country Incorporated (4),No,Country of Incorporation Name
+Proprietor (4) address (1),No,Register Address
+Proprietor (4) address (2),No,Register Address
+Proprietor (4) address 3),No,Register Address
+Date Proprietor added,No,Date Registered
+Additional Proprietor Indicator,Yes,Indicates Other Non-Overseas Proprietors
